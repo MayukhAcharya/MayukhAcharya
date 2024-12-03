@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! My name is Mayukh Acharya and I'm a React Native Developer, from India<br><br>I am Currently a React Native Intern at Nexaris Software<br><br>💻💻📷🐦->>>> I am a Photographer too....Hee Hee<br><br>Want to checkout my CV? Here is the link -><br>https://drive.google.com/file/d/129rpVm-dFx3x2S1ploMIMdGTDqfi2TjI/view?usp=sharing
+Hi 👋! My name is Mayukh Acharya and I'm a React Native Developer, from India<br><br>I am Currently a Software Developer at Nexaris Software<br><br>💻💻📷🐦->>>> I am a Photographer too....Hee Hee<br><br>Want to checkout my CV? Here is the link -><br>https://drive.google.com/file/d/129rpVm-dFx3x2S1ploMIMdGTDqfi2TjI/view?usp=sharing
 
 
 ## 🌐 Socials:
